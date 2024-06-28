@@ -76,7 +76,7 @@ SQL Documentation: [https://www.w3schools.com/sql/]
 "The Impact of Pricing Strategies on E-commerce Sales" - E-commerce Analytics Review
 
 # Ecommerce Sales Data Analysis Power BI Dashboard
-Click on this link to view the Ecommerce Sales Data Analysis Dashboard https://app.powerbi.com/links/HPQCyEL4E1?ctid=dbc4fb19-9838-483e-b13d-950a0f1a88d7&pbi_source=linkShare&bookmarkGuid=202e15b4-ec6f-4f9d-bed8-0e5faf90f551 
+Click on this link to view the Ecommerce Sales Data Analysis Dashboard https://app.powerbi.com/view?r=eyJrIjoiYThjYzMwYzEtMTVjYS00MTA3LWI3NmMtNTRiZjA5Y2JhZmY1IiwidCI6ImY2NWQxY2U4LTYwOTEtNDk4Ny04ZmI4LWJjM2E0MTA5MDY3NSIsImMiOjl9
 
 ### This project provides a detailed analysis of e-commerce sales data, offering actionable insights to improve sales performance, marketing strategies, and customer satisfaction.
 
